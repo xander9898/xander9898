@@ -11,7 +11,7 @@ A full-stack PHP developer.
 - Frontend: Jquery, sass/css
 
 ## Personal Project
-- **[chart.xkcd](https://handyman.xanderthemaster.online)**: Simple Invoicing & Appointment System for Handyman/Contractor 
+- **[handyman-demo](https://handyman.xanderthemaster.online)**: Simple Invoicing & Appointment System for Handyman/Contractor 
   - Built with CodeIgniter
 
 ## Working Experience
