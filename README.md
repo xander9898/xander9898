@@ -8,4 +8,4 @@ A full-stack PHP developer.
 ## Tech Stack
 - Backend: PHP, CodeIgniter, Laravel
 - Database: MySQL
-- Frontend: Jquery, sass/css, Boostrap, Tailwind css
+- Frontend: Jquery, sass/css, Boostrap
